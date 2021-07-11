@@ -1,5 +1,5 @@
 # griddraw
-
+## 一个10宫格抽奖组件
 ## Project setup
 ```
 npm install
